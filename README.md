@@ -16,7 +16,7 @@ Este repositório faz parte de uma atividade da disciplina de **Projeto de Desen
 ## 📷 Prévia
 
 ### Sobre Mim  
-![Sobre Mim](../Components/Layout/assets/preview-about.png)
+![Sobre Mim](./Components/Layout/assets/preview-about.png)
 
 ### Currículo  
-![Currículo](../Components/Layout/assets/preview-curriculo.png)
+![Currículo](./Components/Layout/assets/preview-curriculo.png)
